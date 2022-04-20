@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/overviewbackground"
+    tools:context=".OperatorsJava">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="JAVA Operators"
+            android:textAlignment="center"
+            android:paddingTop="20dp"
+            android:textSize="25dp"
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif-condensed-medium"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="15dp"
+            android:text="Java provides many types of operators which can be used according to the need. They are classified based on the functionality they provide. Some of the types are:"
+            android:textSize="20dp"
+            android:textColor="@color/white" />
+        <TextView
+            android:id="@+id/o1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="15dp"
+            android:text="@string/arthmeticoperator"
+            android:textAlignment="center"
+            android:textSize="17dp"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/o2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="15dp"
+            android:text="@string/Assignmentoperator"
+            android:textAlignment="center"
+            android:textSize="17dp"
+            android:textColor="@color/white" />
+        <TextView
+            android:id="@+id/o3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="15dp"
+            android:text="@string/Relationaloperator"
+            android:textAlignment="center"
+            android:textSize="17dp"
+            android:textColor="@color/white" />
+        <TextView
+            android:id="@+id/o4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="15dp"
+            android:text="@string/Logicaloperator"
+            android:textAlignment="center"
+            android:textSize="17dp"
+            android:textColor="@color/white" />
+        <TextView
+            android:id="@+id/o5"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="15dp"
+            android:text="@string/Ternaryoperator"
+            android:textAlignment="center"
+            android:textSize="17dp"
+            android:textColor="@color/white" />
+        <TextView
+            android:id="@+id/o6"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="15dp"
+            android:text="@string/Unaryperator"
+            android:textAlignment="center"
+            android:textSize="17dp"
+            android:textColor="@color/white" />
+        <TextView
+            android:id="@+id/o7"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="15dp"
+            android:text="@string/Bitwiseoperator"
+            android:textAlignment="center"
+            android:textSize="17dp"
+            android:textColor="@color/white" />
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="To know more, you can also refer To:"
+            android:textAlignment="center"
+            android:paddingTop="20dp"
+            android:textSize="18dp"
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif-condensed-medium" />
+        <TextView
+            android:id="@+id/operatorlink"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="15dp"
+            android:text="@string/operators"
+            android:textAlignment="center"
+            android:textSize="17dp"
+            android:textColor="@color/white" />
+
+    </LinearLayout>
+</ScrollView>

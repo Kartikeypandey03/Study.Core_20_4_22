@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".VariableJava"
+    android:background="@drawable/overviewbackground">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="JAVA Variables"
+            android:textAlignment="center"
+            android:paddingTop="20dp"
+            android:textSize="25dp"
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif-condensed-medium"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="15dp"
+            android:text="Variable in Java is a data container that saves the data values during Java program execution.\n Every variable is assigned a data type that designates the type and quantity of value it can hold.\n Variable is a memory location name of the data.
+
+A variable is a name given to a memory location.\n It is the basic unit of storage in a program."
+            android:textSize="20dp"
+            android:textColor="@color/white" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="15dp"
+            android:text="->The value stored in a variable can be changed during program execution.\n
+A variable is only a name given to a memory location, all the operations done on the variable effects that memory location.\n
+In Java, all the variables must be declared before use."
+            android:textSize="17dp"
+            android:textColor="@color/white" />
+        <TextView
+            android:layout_width="300dp"
+            android:layout_height="150dp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+
+            android:paddingTop="15dp"
+            android:background="@drawable/variable1"
+            android:textSize="17dp"
+            android:textColor="@color/white" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Types of Variables"
+            android:textAlignment="center"
+            android:paddingTop="20dp"
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif-condensed-medium" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="15dp"
+            android:text="Local Variables\n
+Instance Variables\n
+Static Variables"
+            android:textAlignment="center"
+            android:textSize="17dp"
+            android:textColor="@color/white" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Local Variables"
+            android:textAlignment="center"
+            android:paddingTop="20dp"
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif-condensed-medium" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="15dp"
+            android:text="A variable defined within a block or method or constructor is called a local variable.\n\n
+
+These variables are created when the block is entered, or the function is called and destroyed after exiting from the block or when the call returns from the function.\n\n
+The scope of these variables exists only within the block in which the variable is declared. i.e., we can access these variables only within that block.\n\n
+Initialization of the local variable is mandatory before using it in the defined scope."
+            android:textSize="17dp"
+            android:textColor="@color/white" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Instance Variables"
+            android:textAlignment="center"
+            android:paddingTop="20dp"
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif-condensed-medium" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="15dp"
+            android:text="Instance variables are non-static variables and are declared in a class outside any method, constructor, or block.\n\n
+
+As instance variables are declared in a class, these variables are created when an object of the class is created and destroyed when the object is destroyed.\n\n
+Unlike local variables, we may use access specifiers for instance variables. If we do not specify any access specifier, then the default access specifier will be used.\n\n
+Initialization of Instance Variable is not Mandatory. Its default value is 0
+Instance Variable can be accessed only by creating objects."
+            android:textSize="17dp"
+            android:textColor="@color/white" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Static Variables"
+            android:textAlignment="center"
+            android:paddingTop="20dp"
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif-condensed-medium" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="15dp"
+            android:text="Static variables are also known as Class variables.\n\n
+
+These variables are declared similarly as instance variables. The difference is that static variables are declared using the static keyword within a class outside any method constructor or block.\n\n
+Unlike instance variables, we can only have one copy of a static variable per class irrespective of how many objects we create.\n\n
+Static variables are created at the start of program execution and destroyed automatically when execution ends.\n\n
+Initialization of Static Variable is not Mandatory. Its default value is 0\n\n
+If we access the static variable like the Instance variable (through an object), the compiler will show the warning message, which won’t halt the program. The compiler will replace the object name with the class name automatically.\n\n
+If we access the static variable without the class name, the compiler will automatically append the class name."
+            android:textSize="17dp"
+            android:textColor="@color/white" />
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="To know more, you can also refer To:"
+            android:textAlignment="center"
+            android:paddingTop="20dp"
+            android:textSize="18dp"
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif-condensed-medium" />
+        <TextView
+            android:id="@+id/variablelink"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/variablesjava"
+            android:textAlignment="center"
+            android:paddingTop="20dp"
+            android:textSize="18dp"
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif-condensed-medium" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+</ScrollView>

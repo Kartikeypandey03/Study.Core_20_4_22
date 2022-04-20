@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".datatypesjava"
+    android:background="@drawable/overviewbackground">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="JAVA Datatypes"
+            android:textAlignment="center"
+            android:paddingTop="20dp"
+            android:textSize="25dp"
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif-condensed-medium" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="15dp"
+            android:text="There are majorly two types of languages.
+
+First, one is Statically typed language where each variable and expression type is already known at compile time. Once a variable is declared to be of a certain data type, it cannot hold values of other data types.\n Example: C, C++, Java.\n\n
+The other is Dynamically typed languages. These languages can receive different data types over time.\n Example: Ruby, Python\n\n
+Java is statically typed and also a strongly typed language because, in Java, each type of data (such as integer, character, hexadecimal, packed decimal, and so forth) is predefined as part of the programming language and all constants or variables defined for a given program must be described with one of the data types."
+            android:textSize="20dp"
+            android:textColor="@color/white" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Datatypes In Java"
+            android:textAlignment="center"
+            android:paddingTop="20dp"
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif-condensed-medium" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="15dp"
+            android:background="@drawable/datatypesjava"
+            android:textSize="17dp"
+            android:textColor="@color/white" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="15dp"
+            android:text="Java has two categories of data:\n\n
+Primitive Data Type: such as boolean, char, int, short, byte, long, float, and double\n\n
+Non-Primitive Data Type or Object Data type: such as String, Array, etc."
+            android:textSize="20dp"
+            android:textColor="@color/white" />
+ <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="To know more, you can also refer To:"
+            android:textAlignment="center"
+            android:paddingTop="20dp"
+            android:textSize="18dp"
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif-condensed-medium" />
+        <TextView
+            android:id="@+id/datatypelink"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/datatypes"
+            android:textAlignment="center"
+            android:paddingTop="20dp"
+            android:textSize="18dp"
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif-condensed-medium" />
+    </LinearLayout>
+</ScrollView>

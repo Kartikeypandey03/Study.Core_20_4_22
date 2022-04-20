@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/overviewbackground"
+    tools:context=".JavaArray">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="JAVA ARRAY"
+            android:textAlignment="center"
+            android:paddingTop="20dp"
+            android:textSize="25dp"
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif-condensed-medium"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="15dp"
+            android:text="An array in Java is a group of like-typed variables referred to by a common name.\n Arrays in Java work differently than they do in C/C++.\n Following are some important points about Java arrays.\n\n
+-In Java, all arrays are dynamically allocated.\n
+-Since arrays are objects in Java, we can find their length using the object property length. This is different from C/C++, where we find length using sizeof.\n
+-A Java array variable can also be declared like other variables with [] after the data type.\n
+-The variables in the array are ordered, and each has an index beginning from 0.\n
+-Java array can be also be used as a static field, a local variable, or a method parameter.\n
+-The size of an array must be specified by int or short value and not long.\n
+-The direct superclass of an array type is Object.\n
+-Every array type implements the interfaces Cloneable and java.io.Serializable.\n\nAn array can contain primitives (int, char, etc.)\n and object (or non-primitive) references of a class depending on the definition of the array.\n In the case of primitive data types, the actual values are stored in contiguous memory locations.\n In the case of class objects, the actual objects are stored in a heap segment. "
+            android:textSize="20dp"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/javaarray"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="15dp"
+            android:text="@string/javaarray"
+            android:textAlignment="center"
+            android:textSize="17dp"
+            android:textColor="@color/white" />
+
+
+
+
+
+
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="#655E5E"
+    tools:context=".QuantitativeAptitudeSection">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:paddingTop="15dp"
+            android:text="@string/quantheading"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            />
+
+        <TextView
+            android:id="@+id/numberslink"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="20dp"
+            android:text="@string/numberslink"
+            android:textColorLink="@color/black"
+            android:textSize="22dp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/timeandworklink"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="20dp"
+            android:text="@string/timeandworklink"
+            android:textColorLink="@color/black"
+            android:textSize="22dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/timeanddistancelink"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="20dp"
+            android:text="@string/timeanddistancelink"
+            android:textColorLink="@color/black"
+            android:textSize="22dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/profitlosslink"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="20dp"
+            android:text="@string/profitlosslink"
+            android:textColorLink="@color/black"
+            android:textSize="22dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/averagelink"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="20dp"
+            android:text="@string/averagelink"
+            android:textColorLink="@color/black"
+            android:textSize="22dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/permutationcombinationlink"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="20dp"
+            android:text="@string/permutationcombinationlink"
+            android:textColorLink="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/ratioproportionlink"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="20dp"
+            android:text="@string/ratioproportionlink"
+            android:textColorLink="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/simpleinterestlink"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="20dp"
+            android:text="@string/simpleinterestlink"
+            android:textColorLink="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/hcflcmlink"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="20dp"
+            android:text="@string/hcflcmlink"
+            android:textColorLink="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/pipeslink"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="20dp"
+            android:text="@string/pipeslink"
+            android:textColorLink="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/ageslink"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="20dp"
+            android:text="@string/ageslink"
+            android:textColorLink="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/percentlink"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="20dp"
+            android:text="@string/percentlink"
+            android:textColorLink="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/probabilitylink"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="20dp"
+            android:text="@string/probabilitylink"
+            android:textColorLink="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:textAlignment="center"
+            android:paddingTop="20dp"
+            android:text="@string/someusefullinks"
+            android:textColorLink="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/quantlink"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="20dp"
+            android:text="@string/quantlink"
+            android:textColorLink="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/testbooklink"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="20dp"
+            android:text="@string/testbooklink"
+            android:textColorLink="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+</ScrollView>

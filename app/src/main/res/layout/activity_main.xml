@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2">
+
+
+
+    <TextView
+        android:layout_width="337dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="307dp"
+        android:layout_marginEnd="22dp"
+        android:layout_marginBottom="358dp"
+        android:text="STUDY CORE"
+        android:textColor="@color/black"
+        android:textSize="50dp" />
+
+    <ImageView
+        android:layout_width="56dp"
+        android:layout_height="78dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="179dp"
+        android:layout_marginTop="318dp"
+        android:layout_marginEnd="176dp"
+        android:layout_marginBottom="335dp"
+        android:src="@drawable/learning" />
+
+    <ImageView
+        android:id="@+id/homestart"
+        android:layout_width="125dp"
+        android:layout_height="93dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="142dp"
+        android:layout_marginTop="582dp"
+        android:layout_marginEnd="143dp"
+        android:layout_marginBottom="56dp"
+        android:src="@drawable/start" />
+</RelativeLayout>

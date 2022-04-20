@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/overviewbackground"
+    tools:context=".EnvironmentSetupjava">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Java Environment Setup"
+            android:textAlignment="center"
+            android:paddingTop="20dp"
+            android:textSize="25dp"
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif-condensed-medium"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="15dp"
+            android:text="@string/environmentsetup"
+            android:textSize="20dp"
+            android:textColor="@color/white" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingTop="15dp"
+            android:text="@string/environmentsetup1"
+            android:textSize="20dp"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="For Complete Java Installation refer:"
+            android:textAlignment="center"
+            android:paddingTop="20dp"
+            android:textSize="18dp"
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif-condensed-medium"
+            />
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/environmentsetuplink"
+            android:textAlignment="center"
+            android:paddingTop="20dp"
+            android:textSize="18dp"
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:id="@+id/environmentlink"
+            />
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Full Java Developer Road Map"
+            android:textAlignment="center"
+            android:paddingTop="20dp"
+            android:textSize="18dp"
+            android:textColor="@color/white"
+            android:fontFamily="sans-serif-condensed-medium"
+            />
+
+        <TextView
+            android:id="@+id/roadmaplink"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:paddingTop="20dp"
+            android:text="@string/roadmap"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="18dp" />
+
+
+    </LinearLayout>
+
+</ScrollView>

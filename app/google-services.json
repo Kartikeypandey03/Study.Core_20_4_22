@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "784139349090",
+    "firebase_url": "https://study-core-28f20-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "study-core-28f20",
+    "storage_bucket": "study-core-28f20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784139349090:android:3912df3cd5c4b2d670353b",
+        "android_client_info": {
+          "package_name": "com.example.studycore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784139349090-55ag7jrs5n5creekuof29v4mdtilnmeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0fQnrK1vnTknfK18SmeqR0nWRbQ9Iw8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784139349090-55ag7jrs5n5creekuof29v4mdtilnmeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

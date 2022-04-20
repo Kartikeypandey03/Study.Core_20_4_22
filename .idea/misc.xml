@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.142" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.142" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_aptitude_section.xml" value="0.25" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_basic_java.xml" value="0.25" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_basic_syntax.xml" value="0.2" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_competitive_coding_section.xml" value="0.264" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_datatypesjava.xml" value="0.25" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_ebook_section.xml" value="0.1" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_environment_setupjava.xml" value="0.25" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_interview_preparation_section.xml" value="0.1" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_java_array.xml" value="0.21875" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_java_decison_making.xml" value="0.21875" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_java_programming_lang.xml" value="0.264" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_java_strings.xml" value="0.21875" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_javacharacters.xml" value="0.264" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_javalang.xml" value="0.2" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_javanumbers.xml" value="0.21875" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_loopjava.xml" value="0.21875" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_main.xml" value="0.23703703703703705" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_main2.xml" value="0.2" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_operators_java.xml" value="0.25" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_overview_java.xml" value="0.18055555555555555" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_qualitative_aptitude_section.xml" value="0.25" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_qualitative_section.xml" value="0.25" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_qualitativeaptitudesection.xml" value="0.2" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_quantitative_aptitude_section.xml" value="0.25" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_variable_java.xml" value="0.25" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/activity_youtube_player.xml" value="0.25" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/adaptor_view_layout.xml" value="0.264" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/myborder.xml" value="0.2359375" />
+        <entry key="..\:/Users/Karti/AndroidStudioProjects/StudyCore2/app/src/main/res/layout/mylist.xml" value="0.234375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

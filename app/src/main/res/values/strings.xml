@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">Study Core</string>
+
+    <string name="java_overview">Java is a high-level programming language developed by Sun Microsystems and released in 1995. Java runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX.</string>
+    <string name="whytolearnjava">Java is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Software Development Domain. I will list down some of the key advantages of learning Java Programming:</string>
+    <string name="whytolearnjava1">->Object Oriented − In Java, everything is an Object. Java can be easily extended since it is based on the Object model.</string>
+    <string name="whytolearnjava2">->Platform Independent − Unlike many other programming languages including C and C++, when Java is compiled, it is not compiled into platform specific machine, rather into platform independent byte code. This byte code is distributed over the web and interpreted by the Virtual Machine (JVM) on whichever platform it is being run on.</string>
+    <string name="whytolearnjava3">->Simple − Java is designed to be easy to learn. If you understand the basic concept of OOP Java, it would be easy to master.</string>
+    <string name="hyperlink"><a href="https://youtu.be/J1TPKWIPFaE">Click here to open the link on youtube</a></string>
+
+    <string name="environmentsetup">If you are still willing to set up your environment for Java programming language, then this section guides you on how to download and set up Java on your machine. Following are the steps to set up the environment.</string>
+    <string name="environmentsetup1">Java SE is freely available on oracle website.You can download a version based on your operating system.</string>
+    <string name="environmentsetuplink"><a href="https://youtu.be/S6Lr-6iHDLg">Java Installation Video</a></string>
+    <string name="roadmap"><a href="https://drive.google.com/file/d/1BqVWCb3bRh4FrH13ibn1y0eUk3z7MBaa/view?usp=sharing">Java Developer RoadMap</a></string>
+
+    <string name="basicsyntax"><a href="https://www.geeksforgeeks.org/java-basic-syntax/">Java Basic Syntax</a></string>
+    <string name="datatypes"><a href="https://www.geeksforgeeks.org/data-types-in-java/?ref=lbp">Java Datatypes</a></string>
+    <string name="variablesjava"><a href="https://www.geeksforgeeks.org/variables-in-java/?ref=lbp">Java Variables</a></string>
+    <string name="operators"><a href="https://www.geeksforgeeks.org/operators-in-java/?ref=lbp">Java Operators</a></string>
+    <string name="arthmeticoperator"><a href="https://docs.google.com/document/d/1nbd_jSvxYlblJui2RnKmtp18d958chqNwyySHpJHV7k/edit?usp=sharing">Arthemtic Operator</a></string>
+    <string name="Assignmentoperator"><a href="https://docs.google.com/document/d/1ji2y2zdhSmxoN3eXvXBLA_WQAMiD2OvTJsdKOzJ5j8Q/edit?usp=sharing">Assignment Operator</a></string>
+    <string name="Relationaloperator"><a href="https://docs.google.com/document/d/1MsNxawm-9xTxJ1Ff76hzpdRUOxrwII_6Y1gM7L0jXzc/edit?usp=sharing">Relational Operator</a></string>
+    <string name="Logicaloperator"><a href="https://docs.google.com/document/d/13gt3VyruGPTbk8GviunDkTL00Bzvg4fEmanl3yZLazE/edit?usp=sharing">Logical Operator</a></string>
+    <string name="Unaryperator"><a href="https://docs.google.com/document/d/1qblK4hq--2UcPuu2yFmFVR7SHIANsSrH_soMP7sgOwc/edit?usp=sharing">Unary Operator</a></string>
+    <string name="Ternaryoperator"><a href="https://docs.google.com/document/d/10ecWGguH_JdkLyZFiAbgHmFm0fOD785V3ccD52sIXdg/edit?usp=sharing">ternary Operator</a></string>
+    <string name="Bitwiseoperator"><a href="https://docs.google.com/document/d/1pz-E8s4Nh_2AhqsgqkKuBdYLjZ0d8QeYJmqb_JcFJbw/edit?usp=sharing">Bitwise Operator</a></string>
+
+    <!--    Java LOOPS-->
+    <string name="javaforloop"><a href="https://docs.google.com/document/d/1A4FN3Kb6gf-2lr3QJ7WTvA49retA0vtCI4SQRjAB21I/edit?usp=sharing">JAVA FOR LOOP</a></string>
+    <string name="javaforeachloop"><a href="https://docs.google.com/document/d/1f0sXbi_wneYfl6qiOaZlMvEO3GyzD_y3BPhB8TzuSfY/edit?usp=sharing">JAVA FOR-EACH LOOP</a></string>
+    <string name="javawhiledowhile"><a href="https://docs.google.com/document/d/10SHeYFt4QOTcxquiEQGTP8eUQ9sow_XdSZb0_MXtxpc/edit?usp=sharing">JAVA WHILE AND DO-WHILE LOOP</a></string>
+    <string name="javaifelse"><a href="https://docs.google.com/document/d/1FGCZ7Oe7-1qwLwrEJo70RYRZfOYt9E0ptBYLNZHrRmY/edit?usp=sharing"> JAVA IF-ELSE</a></string>
+    <string name="javaswitch"><a href="https://docs.google.com/document/d/1gRvA3EQcR2vgyzHCe28QhNQYdedq9D9BdW3wEB11TTE/edit?usp=sharing">JAVA SWITCH CASE</a></string>
+
+    <!--    Java Numbers-->
+    <string name="javanumbers"><a href="https://www.tutorialspoint.com/java/java_numbers.htm">For More! Tap Here...</a></string>
+
+    <!--    java characters-->
+    <string name="javacharacterslink"><a href="https://www.tutorialspoint.com/java/java_characters.htm">For More! Tap Here...</a></string>
+    <string name="javastring"><a href="https://www.geeksforgeeks.org/strings-in-java/">For More! Tap Here...</a></string>
+    <string name="javaarray"><a href="https://www.geeksforgeeks.org/arrays-in-java/?ref=lbp">For More! Tap Here...</a></string>
+
+    <!--    Competitive coding questions-->
+
+    <string name="array1"><a href="https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/">Reverse the Array</a></string>
+    <string name="array2"><a href="https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/">Max and min in array</a></string>
+    <string name="array3"><a href="https://www.techiedelight.com/find-kth-smallest-element-array/">Kth smallest element array</a></string>
+    <string name="array4"><a href="https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/">Sort an array of 0s,1s,2s</a></string>
+    <string name="array5"><a href="https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/">Array negative and positive integers</a></string>
+    <string name="string1"><a href="https://www.geeksforgeeks.org/reverse-a-string-in-java/">Reverse the String</a></string>
+    <string name="string2"><a href="https://www.programiz.com/java-programming/examples/palindrome-number#:~:text=A%20string%20is%20called%20a,%2C%203553%2C%2012321%2C%20etc.">Palindrome String</a></string>
+    <string name="string3"><a href="https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/">Duplicate Characters in string</a></string>
+    <string name="string4"><a href="https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/">To check if strings are rotations of each other or not</a></string>
+    <string name="string5"><a href="https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/">Longest palindrome substring</a></string>
+    <string name="matrix1"><a href="https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/">Print a given matrix in spiral form</a></string>
+    <string name="matrix2"><a href="https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/">Search in row wise and column wise sorted matrix</a></string>
+    <string name="matrix3"><a href="https://www.geeksforgeeks.org/find-median-row-wise-sorted-matrix/">Find median row wise sorted matrix</a></string>
+    <string name="matrix4"><a href="https://www.geeksforgeeks.org/find-the-row-with-maximum-number-1s/">Find the row with maximum number 1s</a></string>
+    <string name="matrix5"><a href="https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/">Inplace rotate square matrix by 90 degrees</a></string>
+    <string name="sorting1"><a href="https://www.geeksforgeeks.org/find-first-and-last-positions-of-an-element-in-a-sorted-array/">Find first and last positions of an element in a sorted array</a></string>
+    <string name="sorting2"><a href="https://www.geeksforgeeks.org/find-a-fixed-point-in-a-given-array/">Find a fixed point in a given array</a></string>
+    <string name="sorting3"><a href="https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/">Search an element in a sorted and pivoted array</a></string>
+    <string name="sorting4"><a href="https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/">Maximum and minimum in an array</a></string>
+    <string name="sorting5"><a href="https://www.geeksforgeeks.org/majority-element/">Majority Element</a></string>
+    <string name="greedy1"><a href="https://www.geeksforgeeks.org/activity-selection-problem-greedy-algo-1/">Activity selection problem</a></string>
+    <string name="greedy2"><a href="https://www.geeksforgeeks.org/job-sequencing-problem/">Job sequencing problem</a></string>
+    <string name="greedy3"><a href="https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/">Huffman coding greedy problem</a></string>
+    <string name="greedy4"><a href="https://www.geeksforgeeks.org/water-connection-problem/">Water connection problem</a></string>
+    <string name="greedy5"><a href="https://www.geeksforgeeks.org/fractional-knapsack-problem/">Fractional knapsack problem</a></string>
+    <string name="dp1"><a href="https://www.geeksforgeeks.org/coin-change-dp-7/">Coin change problem</a></string>
+    <string name="dp2"><a href="https://www.geeksforgeeks.org/binomial-coefficient-dp-9/">Binomial Cofficient problem</a></string>
+    <string name="dp3"><a href="https://www.geeksforgeeks.org/permutation-coefficient/">Permutation Cofficient problem</a></string>
+    <string name="dp4"><a href="https://www.geeksforgeeks.org/program-nth-catalan-number/">Problem on nth catalan number</a></string>
+    <string name="dp5"><a href="https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/">Matrix chain multiplication</a></string>
+    <string name="final450"><a href="https://docs.google.com/spreadsheets/d/1EHEd-cAbb5zpcGdor7EEEgCTGd82_Zc4/edit?usp=sharing&amp;ouid=111524843710528280484&amp;rtpof=true&amp;sd=true">Click me! To get more questions</a></string>
+
+    <!--  Quantitative aptitude-->
+
+    <string name="quantheading">Quantitative Aptitude Questions</string>
+    <string name="numberslink"><a href="https://testbook.com/aptitude-questions/quantitative-aptitude/number-system-55b0c32eec7b2f79cb0167db?page=current">Problems on Number</a></string>
+    <string name="timeandworklink"><a href="https://testbook.com/aptitude-questions/quantitative-aptitude/time-and-work-55b0c515ec7b2f79cb016953?page=current">Problems on Time and Work</a></string>
+    <string name="timeanddistancelink"><a href="https://testbook.com/aptitude-questions/quantitative-aptitude/speed-time-and-distance-55b0c557ec7b2f79cb0169a5?page=current">Problems on Time and Distance</a></string>
+    <string name="profitlosslink"><a href="https://testbook.com/aptitude-questions/quantitative-aptitude/profit-and-loss-55b0c4c5ec7b2f79cb01692d?page=current">Problems on Profit and loss</a></string>
+    <string name="averagelink"><a href="https://testbook.com/aptitude-questions/quantitative-aptitude/average-55b0c3a2ec7b2f79cb016832?page=current">Problems on Average</a></string>
+    <string name="permutationcombinationlink"><a href="https://testbook.com/aptitude-questions/quantitative-aptitude/permutation-and-combination-55b0c6e7ec7b2f79cb016bd3?page=current">Problems on Permutation and Combination</a></string>
+    <string name="ratioproportionlink"><a href="https://testbook.com/aptitude-questions/quantitative-aptitude/ratio-and-proportion-55b0c3dcec7b2f79cb016844?page=current">Problems on Ratio and Proportion</a></string>
+    <string name="simpleinterestlink"><a href="https://testbook.com/aptitude-questions/quantitative-aptitude/interest-55b0c434ec7b2f79cb01687e?page=current">Problems on Simple Interest</a></string>
+    <string name="hcflcmlink"><a href="https://www.indiabix.com/aptitude/problems-on-hcf-and-lcm/">Problems on HCF and LCM</a></string>
+    <string name="pipeslink"><a href="https://www.indiabix.com/aptitude/pipes-and-cistern/">Problems on Pipes and Cistern</a></string>
+    <string name="ageslink"><a href="https://www.indiabix.com/aptitude/problems-on-ages/">Problems on Ages</a></string>
+    <string name="percentlink"><a href="https://testbook.com/aptitude-questions/quantitative-aptitude/percentage-55b0c3aeec7b2f79cb016833?page=current">Problems on Percentage</a></string>
+    <string name="probabilitylink"><a href="https://testbook.com/aptitude-questions/quantitative-aptitude/probability-55b0c76bec7b2f79cb016da7?page=current">Problems on Probability</a></string>
+    <string name="someusefullinks">Some more useful links:</string>
+    <string name="quantlink"><a href="https://www.indiabix.com/aptitude/questions-and-answers/">Aptitude questions link 1</a></string>
+    <string name="testbooklink"><a href="https://testbook.com/aptitude-questions">Aptitude questions link 2</a></string>
+
+    <!--    qualitative aptitude-->
+    <string name="q1"><a href="https://docs.google.com/document/d/1o94rJhKS2VmTi42loo97eTUQIgPqMuPxKbg05zzD_RM/edit?usp=sharing">Tell me about yourself</a></string>
+    <string name="q2"><a href="https://docs.google.com/document/d/1-ztYSPabTzYsldykmY4opc10EHk2EAUUeG17ZlWVqeY/edit?usp=sharing">What are your greatest strengths?</a></string>
+    <string name="q3"><a href="https://docs.google.com/document/d/13bGdZ2pSkQLe0_-V5LLHhBI213iIzmTZYTvaeBiVt2c/edit?usp=sharing">What are your greatest weeknesses?</a></string>
+    <string name="q4"><a href="https://docs.google.com/document/d/1uUKuXmIKTTxB7NVGNIll3_pO-tmA_g5l2FClT2Yoco4/edit?usp=sharing">Tell me about something you did – or failed to do – that you now feel a little ashamed of.</a></string>
+    <string name="q5"><a href="https://docs.google.com/document/d/1GRl8ZRQEoW8CMBPLosTntBnHbsG8MlMZyo1zju1znGo/edit?usp=sharing">Why are you leaving (or did you leave) this position?</a></string>
+    <string name="q6"><a href="https://docs.google.com/document/d/1sOgraInOR_h3KsbjsDo5ThQX4VW9YzJj9ofiLRUvcwk/edit?usp=sharing"> The “Silent Treatment”</a></string>
+    <string name="q7"><a href="https://docs.google.com/document/d/1S5EIhg9j8qFq90a-Nvy3eZgbOfc7FokBk0Cb2uxXI_s/edit?usp=sharing">Why should I hire you?</a></string>
+    <string name="q8"><a href="https://docs.google.com/document/d/1rLynqI0AElNQavy826ttCbDyzlgQ2N0muBycDz5Bq-s/edit?usp=sharing">Aren’t you overqualified for this position?</a></string>
+    <string name="q9"><a href="https://docs.google.com/document/d/1RRmWcrUEH0SGt2hJen-qFlj_D68Ftt-5ejujp8JkP4I/edit?usp=sharing">Where do you see yourself five years from now?</a></string>
+    <string name="q10"><a href="https://docs.google.com/document/d/1EPVAJC7h1yWLaIwZM2B2t3Mx-xfR3rNqTAlXhRLKnm4/edit?usp=sharing">Describe your ideal company, location and job</a></string>
+    <string name="q11"><a href="https://docs.google.com/document/d/16tRLIaOu_HE3chGx1S81gr-MDvsVjjh6R9kX6NJAJro/edit?usp=sharing">Why do you want to work at our company?</a></string>
+    <string name="q12"><a href="https://docs.google.com/document/d/124vUvVP9kSffQuApfG-pAaa4VeL9OcKNQM3C1jgyelY/edit?usp=sharing"> What are your career options right now?</a></string>
+    <string name="q13"><a href="https://docs.google.com/document/d/1Ui0QOD-69TXej3NzKIA_D-6sfbUCTm_Ch9jvcTsc9_Q/edit?usp=sharing">Why have you been out of work so long?</a></string>
+    <string name="q14"><a href="https://docs.google.com/document/d/1dPb9YCQTs_uijxe1ewWEE_65zKWHY5wI0Pm3TXugaNc/edit?usp=sharing">What good books have you read lately?</a></string>
+    <string name="q15"><a href="https://docs.google.com/document/d/1P8tAn4_FHy7k5mNtqwS2nbaNZd3mn-SAwiq-5R8tkJw/edit?usp=sharing">Tell me about a situation when your work was criticized.</a></string>
+    <string name="q16"><a href="https://docs.google.com/document/d/1QdO0RjP6Er9X4F0jObzvpCrz7c53IPq1nVtwqz_V3ZQ/edit?usp=sharing">What are your outside interests?</a></string>
+    <string name="q17"><a href="https://docs.google.com/document/d/170_313xlNOp7Mghg3YGLAty2e8pH-odI1EsgaYuqEa8/edit?usp=sharing">The “Fatal Flaw” question</a></string>
+    <string name="q18"><a href="https://docs.google.com/document/d/1CmF2AEYTLz1AviNhxJ0O6D9kJjtF_0Dy8yO2Pn3ZBqA/edit?usp=sharing">How do you feel about reporting to a younger person (minority, woman, etc)?</a></string>
+    <string name="q19"><a href="https://docs.google.com/document/d/1LRFGhq0EaL_D_gEohtN5W6__q4DHq3nzvOfLxRUSSCg/edit?usp=sharing">On confidential matters…</a></string>
+    <string name="q20"><a href="https://docs.google.com/document/d/1A7D_7Efze9LY5dbcnJ04A-oQGENdc--7nRFUxQQfsOg/edit?usp=sharing">Would you lie for the company?</a></string>
+    <string name="q21"><a href="https://docs.google.com/document/d/1c3rfZwvNX4ubojc9mjcA9OgQTku6Ob32Gmc7vvJU5_s/edit?usp=sharing">Looking back, what would you do differently in your life?</a></string>
+    <string name="q22"><a href="https://docs.google.com/document/d/11on-u8HI9_dN7WT9lHb7VwJRBX8G8Lu817VGmy_h9FQ/edit?usp=sharing">Can you work under pressure?</a></string>
+    <string name="q23"><a href="https://docs.google.com/document/d/1ncDYXlx8DQsjd34H-SktvfzX6Xh8qOoMCV3ajRiRKRg/edit?usp=sharing">What makes you angry?</a></string>
+    <string name="q24"><a href="https://docs.google.com/document/d/1dhRA3TgpqFB5ogZwDYwZzFzCb4riQkXm05m9Row0GBY/edit?usp=sharing">Who has inspired you in your life and why?</a></string>
+    <string name="q25"><a href="https://docs.google.com/document/d/1yNsjzxbBy8C3QJx_hIJm0R9N-QyTT158nun42ZdOv58/edit?usp=sharing">What was the toughest decision you ever had to make?</a></string>
+    <string name="q26"><a href="https://docs.google.com/document/d/1jencNcoCjneXu7kBRLIwpyVUULGeHzPhjeh5h9UFLsc/edit?usp=sharing">What changes would you make if you came on board?</a></string>
+    <string name="q27"><a href="https://docs.google.com/document/d/15DCpUyzLI_UwViH1cJ7a6IslSlDQqDZ4wEz4VXwI-dY/edit?usp=sharing">How do you feel about working nights and weekends?</a></string>
+    <string name="q28"><a href="https://docs.google.com/document/d/10VGHrKTSz9JYDC0AC3l0yc9GGLt9M2XVhXz5hqcVq7w/edit?usp=sharing"> Are you willing to relocate or travel?</a></string>
+    <string name="q29"><a href="https://docs.google.com/document/d/1qxsY0Hm6HbYpuKx-D18IMn7Y0oU-c147cCZaGS9RIPU/edit?usp=sharing">How could you have improved your career progress?</a></string>
+    <string name="q30"><a href="https://docs.google.com/document/d/1ygzhv4Bw_0rr_-VBnuCCbmW4o0wlL4EbHeBuFklCsTU/edit?usp=sharing">What are your goals?</a></string>
+
+    <!--    Interview Preparation question-->
+
+
+    <string name="i1"><a href="https://www.interviewbit.com/java-interview-questions/#java-platform-independent">For More! Tap Here...</a></string>
+    <string name="i2"><a href="https://www.interviewbit.com/java-interview-questions/#java-not-purely-object-oriented-language">For More! Tap Here...</a></string>
+    <string name="i3"><a href="https://www.interviewbit.com/java-interview-questions/#heap-vs-stack-memory-how-java-utilizes-this">For More! Tap Here...</a></string>
+    <string name="i4"><a href="https://www.interviewbit.com/java-interview-questions/#can-java-be-said-to-be-the-complete-object-oriented-programming-language">For More! Tap Here...</a></string>
+    <string name="i5"><a href="https://www.interviewbit.com/java-interview-questions/#how-is-java-different-from-cpp">For More! Tap Here...</a></string>
+    <string name="i6"><a href="https://www.interviewbit.com/java-interview-questions/#why-dont-we-use-pointers-in-java">For More! Tap Here...</a></string>
+    <string name="i7"><a href="https://www.interviewbit.com/java-interview-questions/#instance-variables-and-local-variables-in-java">For More! Tap Here...</a></string>
+    <string name="i8"><a href="https://www.interviewbit.com/java-interview-questions/#what-are-the-default-values-assigned-to-variables-and-instances-in-java">For More! Tap Here...</a></string>
+    <string name="i9"><a href="https://www.interviewbit.com/java-interview-questions/#what-is-data-encapsulation">For More! Tap Here...</a></string>
+    <string name="i10"><a href="https://www.interviewbit.com/java-interview-questions/#just-in-time-compiler-explained">For More! Tap Here...</a></string>
+    <string name="i11"><a href="https://www.interviewbit.com/java-interview-questions/#difference-between-equality-operator-and-equals-method-java">For More! Tap Here...</a></string>
+    <string name="i12"><a href="https://www.interviewbit.com/java-interview-questions/#infinite-loops-in-java">For More! Tap Here...</a></string>
+    <string name="i13"><a href="https://www.interviewbit.com/java-interview-questions/#constructor-overloading-in-java">For More! Tap Here...</a></string>
+    <string name="i14"><a href="https://www.interviewbit.com/java-interview-questions/#define-copy-constructor-in-java">For More! Tap Here...</a></string>
+    <string name="i15"><a href="https://www.interviewbit.com/java-interview-questions/#can-the-main-method-be-overloaded">For More! Tap Here...</a></string>
+    <string name="i16"><a href="https://www.interviewbit.com/java-interview-questions/#method-overloading-and-overriding-in-java-with-example">For More! Tap Here...</a></string>
+    <string name="i17"><a href="https://www.interviewbit.com/java-interview-questions/#single-try-block-and-multiple-catch-blocks-coexist-in-java">For More! Tap Here...</a></string>
+    <string name="i18"><a href="https://www.interviewbit.com/java-interview-questions/#final-keyword-in-java">For More! Tap Here...</a></string>
+    <string name="i19"><a href="https://www.interviewbit.com/java-interview-questions/#difference-between-final-finally-and-finalize">For More! Tap Here...</a></string>
+    <string name="i20"><a href="https://www.interviewbit.com/java-interview-questions/#is-it-possible-that-the-finally-block-will-not-be-executed-if-yes-then-list-the-case">For More! Tap Here...</a></string>
+    <string name="i21"><a href="https://www.interviewbit.com/java-interview-questions/#java-basic-questions">For more questions, You can also refer to:</a></string>
+
+
+</resources>
